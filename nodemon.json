@@ -1,0 +1,6 @@
+{
+    "ignore": ["dist", "src/client"],
+    "watch": ["src"],   
+     "ext": "ts,tsx,json",   
+    "exec": "ts-node ./src/server/server.ts"  
+}
