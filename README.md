@@ -1,2 +1,2 @@
-# react-ts-front-sample
+# react-ts-starter
 素振り
